@@ -1,2 +1,2 @@
 # hello
-about project collaboration software
+about software
